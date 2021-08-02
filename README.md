@@ -1,2 +1,5 @@
-# dio-desafio-primeiro-repositorio-github
-Desafio de Projeto sobre Git/GitHub
+#  Construção de conhecimentos em programação 
+Repositorio da evolução dos estudos na DIO
+
+## Links Úteis
+[Git Hub](https://github.com) 
