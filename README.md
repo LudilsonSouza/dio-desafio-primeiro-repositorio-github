@@ -1,5 +1,5 @@
-#  Construção de conhecimentos em programação 
-Repositorio da evolução dos estudos na DIO
+#  Desafio de Projeto sobre Git/GitHub da DIO
+Repositorio  criado para o Desafio de Projeto.
 
 ## Links Úteis
 [Git Hub](https://github.com/)
